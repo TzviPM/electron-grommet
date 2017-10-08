@@ -16,7 +16,7 @@ export default class extends React.Component {
       <App centered={false}>
         <Header direction="row" justify="between" size="large"
           pad={{ horizontal: 'medium' }}>
-          <Title>Grommet standalone</Title>
+          <Title>Grommet for electron</Title>
         </Header>
         <Box pad='medium'>
           <Meter value={40} />
